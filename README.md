@@ -1,6 +1,6 @@
 # PRODIGY_CS_05
 
-Sure! Here is a sample README file for the network packet analyzer:
+Here is a sample README file for the network packet analyzer:
 
 ---
 
